@@ -9,3 +9,9 @@
 *.out
 *.toc
 .DS_Store
+
+backups/
+.github/
+.gitignore
+.editorconfig
+.gitattributes
